@@ -1,2 +1,16 @@
-# ZennedOut
-Designed an app for students to manage schedules, expenses, academics, and work-life balance. Streamlined tasks into an intuitive platform, reducing stress and enhancing efficiency. Empowered students with cutting-edge features for scheduling, budgeting, and self-care, promoting holistic success and well-being in a competitive academic environment.
+# zenned_out
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
